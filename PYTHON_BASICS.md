@@ -54,6 +54,7 @@ Includes links to online lectures
     - Can also look on [datacamp](https://www.datacamp.com/) or [codeacademy](https://www.codecademy.com/) for free and more interactive tutorials 
 - _google is your best friend!_ Look at documentation pages for packages by google searching: 'package_name documentation' (e.g. 'pandas documentation')
 - matplotlib website has great [tutorials](https://matplotlib.org/stable/tutorials/index.html) for learning the basics and many [examples](https://matplotlib.org/stable/gallery/index.html) for almost any type of graph
+
 **To do:**
 - [ ] Open jupyter notebook from terminal
 - [ ] create jupyter notebook
