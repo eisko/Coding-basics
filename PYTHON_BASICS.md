@@ -4,7 +4,9 @@ Below are links and resources to get started in analyzing and visualizing data i
 
 ## 1. Learn unix/shell commands
 
-see [datacamp free course](https://app.datacamp.com/learn/courses/introduction-to-shell-for-data-science)
+- [free textbook on linux](http://linuxcommand.org/lc3_learning_the_shell.php)
+- [datacamp free course](https://app.datacamp.com/learn/courses/introduction-to-shell-for-data-science)
+- [look-up specific shell commands](https://explainshell.com/)
 
 **To do:**
 
