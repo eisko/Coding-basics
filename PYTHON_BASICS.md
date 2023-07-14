@@ -60,7 +60,7 @@ Includes links to online lectures
 - [ ] create jupyter notebook
 - [ ] create text and code cells
 - [ ] import packages
--- note: some conventions used:
+    - note: some conventions used:
 ```
 import pandas as pd
 import numpy as np
@@ -68,10 +68,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 ```
 - [ ] load csv file as dataframe (hint: use `pandas` package)
--- [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+    - [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 - [ ] Plot histogram of random values (hint: use `matplotlib` or `seaborn`)
--- [Matplotlib Cheat sheet](https://matplotlib.org/cheatsheets/)
--- [Seaborn cheat sheet](http://datacamp-community-prod.s3.amazonaws.com/263130e2-2c92-4348-a356-9ed9b5034247 )
+    - [Matplotlib Cheat sheet](https://matplotlib.org/cheatsheets/)
+    - [Seaborn cheat sheet](http://datacamp-community-prod.s3.amazonaws.com/263130e2-2c92-4348-a356-9ed9b5034247 )
 - [ ] Create scatterplot of y=x
 - [ ] Load `.tiff` file as numpy array (if plan to work with images)
 
