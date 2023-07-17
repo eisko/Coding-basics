@@ -80,4 +80,9 @@ import seaborn as sns
 See https://readiab.org/introduction.html for a great online, free, interactive textbook on the basics of bioinformatics <br/>
 Goes over alignment algorithms and some basic functions/packages that could be used to manipulate DNA sequences in python
 
+### Clean Coding and Style
 See https://ploomber.io/blog/clean-nbs/ for guideline on how to write cleaner code (something I'm still learning how to do!)
+
+Other recommended style guides:
+- https://peps.python.org/pep-0008/
+- https://google.github.io/styleguide/pyguide.html 
