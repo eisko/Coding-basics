@@ -80,6 +80,11 @@ import seaborn as sns
 See https://readiab.org/introduction.html for a great online, free, interactive textbook on the basics of bioinformatics <br/>
 Goes over alignment algorithms and some basic functions/packages that could be used to manipulate DNA sequences in python
 
+### Image analysis
+
+See https://bioimagebook.github.io/index.html for a great, online, free python on image analysis basics <br/>
+Goes over a lot from image processing, to thresholding, to microscope basics. Written by Pete Bankhead, the creator of qupath.
+
 ### Clean Coding and Style
 See https://ploomber.io/blog/clean-nbs/ for guideline on how to write cleaner code (something I'm still learning how to do!)
 
